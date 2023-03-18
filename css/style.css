@@ -19,8 +19,12 @@
 #form2div1{
     margin-top: 100px;
 }
+.form2label{
+    font-size: 25px ;
+   
+}
 
-#form2name{
+.form2{
     width: 25%;
     margin-top: 10px;
     padding: 13px 22px;
