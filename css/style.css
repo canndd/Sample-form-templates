@@ -78,4 +78,14 @@
 
   #formdiv3{
     margin-top: 80px;
+    text-align: center;
+  }
+  .form3label{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+  }
+  #formlabel2mr{
+    margin-left: 180px;
   }
