@@ -72,3 +72,10 @@
     background-image: linear-gradient(to bottom, #6a64f1, #ae5fd9);
     text-decoration: none;
   }
+  .osman input:checked + label {
+    background-color: purple;
+  }
+
+  #formdiv3{
+    margin-top: 80px;
+  }
